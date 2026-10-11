@@ -1,17 +1,15 @@
-# Quartz v5
+# МакГраты
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Публичная вики династии The Sims 4: три поколения, семейная хроника, арка «Все совпадения случайны?» и авторская мастерская.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Сайт: https://jemimma-lor.github.io/mcgrath-wiki/
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Все страницы и изображения находятся в content/. Канон, планы, вопросы и архивные обсуждения сохраняют разные статусы. В мастерской есть спойлеры.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Инструкция для правок: [EDITING.md](EDITING.md). После сохранения в main GitHub Actions собирает и публикует сайт. GitHub Pages должен использовать источник GitHub Actions.
 
-## Sponsors
+Node.js 24; установка: npm ci, сборка: npx quartz build. Результат в public/.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Движок — [Quartz](https://quartz.jzhao.xyz/), его исходный код распространяется под MIT. Эта лицензия не распространяется автоматически на авторские тексты и изображения вики.
+
+Оформление: постоянная тёмная тема, янтарные, медные и голубые акценты. Аналитика и комментарии не подключены.
