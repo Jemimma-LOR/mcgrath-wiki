@@ -189,8 +189,7 @@ plugins:
   - source: "@quartz-community/footer"
     enabled: true
     options:
-      links:
-        Исходники: https://github.com/Jemimma-LOR/mcgrath-wiki
+      links: {}
     layout:
       position: footer
       priority: 50
