@@ -3,7 +3,10 @@ configuration:
   pageTitleSuffix: " · МакГраты"
   enableSPA: true
   enablePopovers: true
-  analytics: null
+  analytics:
+    provider: umami
+    websiteId: "8a511621-9247-40bf-857a-3538afa6e071"
+    host: "https://cloud.umami.is"
   locale: ru-RU
   baseUrl: jemimma-lor.github.io/mcgrath-wiki
   ignorePatterns:
